@@ -11,7 +11,6 @@ import {
     ModalHeader,
     ModalOverlay,
     Text,
-    Textarea,
     useDisclosure,
 } from '@chakra-ui/react';
 import { EventDAO } from '../../../shared/dataTypes';
